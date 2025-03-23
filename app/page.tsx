@@ -13,6 +13,9 @@ export default async function Home() {
       <li>
         <Link href="/notifier">Notifier</Link>
       </li>
+      <li>
+        <Link href="/tasks">Tasks</Link>
+      </li>
     </ul>
     </>
   );
